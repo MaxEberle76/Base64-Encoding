@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Base64_Encoding.dir/objects.a
+E:\MinGW-W64\mingw64\bin\ar.exe cr CMakeFiles\Base64_Encoding.dir/objects.a @CMakeFiles\Base64_Encoding.dir\objects1.rsp
+E:\MinGW-W64\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Base64_Encoding.dir/objects.a -Wl,--no-whole-archive  -o Base64_Encoding.exe -Wl,--out-implib,libBase64_Encoding.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Base64_Encoding.dir\linklibs.rsp
